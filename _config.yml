@@ -1,5 +1,34 @@
-baseurl: /class-boilerplate
+# Settings
+baseurl: 
 permalink: pretty
+
+# About
+title: ISI1-WEB
+tagline: Ingénierie des Systèmes d'Information
+authors:
+  - name: Baptiste Pesquet
+    url: 'http://bpesquet.fr'
+created: 
+license:
+  name: Creative Commons BY-NC-SA 4.0
+  shortname: CC BY-NC-SA 4.0
+  url: http://creativecommons.org/licenses/by-nc-sa/4.0/
+  badge: http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png
+  
+# Collections
+collections:
+  addons:
+    output: true
+
+# Default values
+defaults:
+  - scope:
+      path: ''
+    values:
+      addons:
+        highlightjs: yes
+        print-link: yes
+        about: yes
 
 kramdown:
   parse_block_html: true
