@@ -3,6 +3,8 @@ layout: default
 title: Accueil
 ---
 
-# {{ site.title }}
+# Polytech Lyon - Module ISI1-WEB
 
+Site en construction.
 
+Enseignant : [Baptiste Pesquet](http://bpesquet.fr).
