@@ -9,8 +9,8 @@ L'objectif de ce projet est de créer une application de gestion de films sous l
 
 Deux pages du site doivent être réalisées :
 
-* La page d'accueil `index.html` qui affiche la liste des films.
-* La page `movie.html`, accessible un cliquant sur le titre d'un des films sur la page d'accueil, qui présente les détails sur un film ainsi qu'une image et un bouton d'édition (non fonctionnel).
+* La page d'accueil qui affiche la liste des films.
+* La page qui présente les détails sur un film ainsi qu'une image et un bouton d'édition (non fonctionnel). Cette page est accessible un cliquant sur le titre d'un des films sur la page d'accueil.
 
 Le site dispose d'une barre de navigation avec un menu déroulant. La seule fonctionnalité opérationnelle de cette barre est le retour à la page d'accueil. Un pied de page (*footer*) indique la nom du créateur du site.
 
