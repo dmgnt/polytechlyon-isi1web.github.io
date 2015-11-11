@@ -1,6 +1,6 @@
 # Settings
 baseurl: 
-permalink: pretty
+permalink: /:categories/:title
 
 # About
 title: ISI1-WEB
