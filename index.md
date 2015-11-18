@@ -24,4 +24,5 @@ Enseignant : [Baptiste Pesquet](http://bpesquet.fr).
 ## Projets
 
 * [Gestion de films (version statique)](projects/mymovies-static)
+* [Création d'un CV Web](projects/cv-web)
 
