@@ -11,8 +11,9 @@ Deux pages du site doivent être réalisées :
 
 * La page d'accueil qui affiche la liste des films.
 * La page qui présente les détails sur un film ainsi qu'une image et un bouton d'édition (non fonctionnel). Cette page est accessible un cliquant sur le titre d'un des films sur la page d'accueil.
+* La page d'administration qui affiche la liste de tous les films sous forme tabulaire. Cette page est accessible un cliquant sur le bouton **Administration** de la barre de navigation.
 
-Le site dispose d'une barre de navigation avec un menu déroulant. La seule fonctionnalité opérationnelle de cette barre est le retour à la page d'accueil. Un pied de page (*footer*) indique la nom du créateur du site.
+Le site dispose d'une barre de navigation avec un menu déroulant. Le clic sur le nom du site déclenche le retour à la page d'accueil. Un pied de page (*footer*) indique la nom du créateur du site.
 
 Les données du site (les films) sont choisies librement, avec un minimum de trois films affichés.
 
@@ -38,4 +39,7 @@ Les images ci-dessous fournissent un exemple de réalisation du projet. La mise 
 {:.centered}
 
 ![](../assets/mymovies/mymovies3.png)
+{:.centered}
+
+![](../assets/mymovies/mymovies4.png)
 {:.centered}
