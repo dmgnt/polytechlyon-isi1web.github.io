@@ -43,3 +43,8 @@ Les images ci-dessous fournissent un exemple de réalisation du projet. La mise 
 
 ![](../assets/mymovies/mymovies4.png)
 {:.centered}
+
+**Bonus** : ajoutez des onglets à la page d'administration pour afficher soit la liste des films, soit la liste des utilisateurs.
+
+![](../assets/mymovies/mymovies5.png)
+{:.centered}
