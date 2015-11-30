@@ -11,15 +11,17 @@ Enseignant : [Baptiste Pesquet](http://bpesquet.fr).
 
 ## Cours
 
-### HTML/CSS
-
 * [Introduction au développement Web](http://slam5.lmdsio.fr/lessons/introduction-developpement-web)
-* [Make a Website](https://www.codecademy.com/skills/make-a-website) (Codecademy)
-
-### Bootstrap
-
 * [Démonstration des possibilités de Bootstrap](https://www.codecademy.com/en/skills/make-a-website/topics/bootstrap-components/bootstrap-intro) (Codecademy)
+* [Introduction au développement collaboratif avec Git et GitHub](assets/git-github/DevCollabGitGitHub.pdf)
+
+## Activités
+
+* [Make a Website](https://www.codecademy.com/skills/make-a-website) (Codecademy)
 * [Premiers pas avec le framework Bootstrap](http://prof.bpesquet.fr/tutoriel/premiers-pas-framework-bootstrap/)
+* [Learn Git](https://www.codecademy.com/learn/learn-git) (Codecademy)
+* [git-game](https://github.com/git-game/git-game)
+* [Premiers pas avec GitHub](http://slam5.lmdsio.fr/activities/premiers-pas-github)
 
 ## Projets
 
