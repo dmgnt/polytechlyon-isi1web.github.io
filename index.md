@@ -13,7 +13,7 @@ Enseignant : [Baptiste Pesquet](http://bpesquet.fr).
 
 * [Introduction au développement Web](http://slam5.lmdsio.fr/lessons/introduction-developpement-web)
 * [Démonstration des possibilités de Bootstrap](https://www.codecademy.com/en/skills/make-a-website/topics/bootstrap-components/bootstrap-intro) (Codecademy)
-* [Introduction au développement collaboratif avec Git et GitHub](assets/git-github/DevCollabGitGitHub.pdf)
+* [Introduction au développement collaboratif avec Git et GitHub](assets/git-github/DevCollabGitGithub.pdf)
 * [Memento Git](http://slam5.lmdsio.fr/lessons/memento-git)
 
 ## Activités
