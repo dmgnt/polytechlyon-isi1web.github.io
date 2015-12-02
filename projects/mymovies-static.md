@@ -48,3 +48,7 @@ Les images ci-dessous fournissent un exemple de réalisation du projet. La mise 
 
 ![](../assets/mymovies/mymovies5.png)
 {:.centered}
+
+## Remise des projets
+
+Suivez [ces instructions](https://github.com/polytechlyon-isi1web/mymovies) (authentification nécessaire) pour déposer votre projet via GitHub.
