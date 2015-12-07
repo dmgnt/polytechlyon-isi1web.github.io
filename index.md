@@ -23,6 +23,7 @@ Enseignant : [Baptiste Pesquet](http://bpesquet.fr).
 * [Learn Git](https://www.codecademy.com/learn/learn-git) (Codecademy)
 * [git-game](https://github.com/git-game/git-game)
 * [Premiers pas avec GitHub](http://slam5.lmdsio.fr/activities/premiers-pas-github)
+* [PHP](https://www.codecademy.com/en/tracks/php) (Codecademy)
 
 ## Projets
 
