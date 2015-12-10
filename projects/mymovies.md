@@ -20,6 +20,8 @@ Les exigences techniques sont les mêmes que celle de la [version statique](mymo
 * Les scripts permettant de créer la base de données et d'insérer des données de test sont stockées dans le répertoire `db/`.
 * La duplication de code dans les pages PHP est **interdite**. Les portions communes (accès à la base de données, barre de navigation, pied de page, etc) sont regroupées dans un répertoire `includes/` et inclus partout où c'est nécessaire.
 
+Les scripts de création de la base sont disponibles sur [GitHub](https://github.com/polytechlyon-isi1web/mymovies/tree/master/db).
+
 ## Bonus
 
 Le projet peut être enrichi avec les fonctionnalités métier suivantes :
