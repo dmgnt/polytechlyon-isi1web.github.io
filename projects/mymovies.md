@@ -40,7 +40,11 @@ Du point de vue technique, on peut envisager d'utiliser un framework plutôt que
 
 Un exemple d'application est [disponible en ligne](https://mymovies-correction.herokuapp.com/index.php).
 
-## Remise des projets
+## Remise du projet
 
-Les projets sont déposés via GitHub dans le même dépôt que la version statique.
+Le code source du projet est publié sur GitHub dans le même dépôt que la version statique.
 
+Le projet est déployé sur [OpenShift](https://openshift.com). L'URL de déploiement doit être précisée sur la page GitHub du projet.
+
+![](../assets/mymovies/github-url.jpeg)
+{:.centered}
