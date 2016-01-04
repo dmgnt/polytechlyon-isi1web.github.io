@@ -21,9 +21,10 @@ Enseignant : [Baptiste Pesquet](http://bpesquet.fr).
 * [Make a Website](https://www.codecademy.com/skills/make-a-website) (Codecademy)
 * [Premiers pas avec le framework Bootstrap](http://prof.bpesquet.fr/tutoriel/premiers-pas-framework-bootstrap/)
 * [Learn Git](https://www.codecademy.com/learn/learn-git) (Codecademy)
-* [git-game](https://github.com/git-game/git-game)
+* [git-game](https://github.com/git-game/git-game) (GitHub)
 * [Premiers pas avec GitHub](http://slam5.lmdsio.fr/activities/premiers-pas-github)
-* [PHP/MySQL](https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql) (OpenClassrooms)
+* [Concevez votre site Web avec PHP et MySQL](https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql) (OpenClassrooms)
+* [Déployer un site PHP sur OpenShift](activities/deployer-site-php-openshift)
 
 ## Projets
 
