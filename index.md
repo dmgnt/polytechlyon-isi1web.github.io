@@ -11,7 +11,7 @@ Enseignant : [Baptiste Pesquet](http://bpesquet.fr).
 
 ## Cours
 
-* [Guide du développeur PHP](https://bpesquet.gitbooks.io/guide-developpeur-php/content/)
+* [Guide du développeur PHP](https://www.gitbook.com/book/bpesquet/guide-developpeur-php)
 * [Démonstration des possibilités de Bootstrap](https://www.codecademy.com/en/skills/make-a-website/topics/bootstrap-components/bootstrap-intro) (Codecademy)
 * [Introduction au développement collaboratif avec Git et GitHub](assets/git-github/DevCollabGitGithub.pdf)
 * [Mémento Git](http://slam5.lmdsio.fr/lessons/memento-git)
