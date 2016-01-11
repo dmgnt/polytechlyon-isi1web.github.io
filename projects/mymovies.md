@@ -44,7 +44,7 @@ Un exemple d'application est [disponible en ligne](https://mymovies-correction.h
 
 Le code source du projet est publié sur GitHub dans le même dépôt que la version statique.
 
-Le projet est déployé sur [OpenShift](https://openshift.com). L'URL de déploiement doit être précisée sur la page GitHub du projet.
+En bonus, le projet peut être déployé sur [OpenShift](https://openshift.com) ([exemple d'utilisation d'OpenShift](../activities/deployer-site-php-openshift)). Dans ce cas, l'URL de déploiement doit être précisée sur la page GitHub du projet.
 
 ![](../assets/mymovies/github-url.jpeg)
 {:.centered}
